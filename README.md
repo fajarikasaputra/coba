@@ -10,3 +10,5 @@ Repositori ini dibangun mengikuti tahap
 demi tahap pada tutorial.
 
 Sekarang ini terhubung dengan GithHub
+
+Disuruh nambahin baris baru tadi
